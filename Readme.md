@@ -1,4 +1,4 @@
-##Konwolucyjne Sieci Neuronowe w Problemie Klasyfikacji Zmian Skórnych
+Konwolucyjne Sieci Neuronowe w Problemie Klasyfikacji Zmian Skórnych
 
 W ramach projektu zaimplementowano dwie konwolucyjne sieci neuronowe: 
 * O klasycznej architekturze
